@@ -1,0 +1,8 @@
+{
+  "name": "@dylanvann/prettierrc",
+  "version": "1.0.0",
+  "description": "Dylan's prettier config.",
+  "main": "index.js",
+  "author": "Dylan Vann <dylan@dylanvann.com>",
+  "license": "MIT"
+}
